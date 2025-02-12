@@ -36,8 +36,9 @@ Our multi-microphone models **outperform single-channel baselines**, demonstrati
 ## 🔧 How It Works
 
 1. Multi-channel audio is preprocessed into **mel-spectrograms**.
-2. The **HTS-AT Transformer** extracts deep features from the multi-microphone signals.
-3. The **final classifier** predicts the emotional state of the speaker.
+2. The mel-spectrograms are processed using the selected multi-channel strategy (e.g., Averaging Mel-Spectrograms or Patch-Embed Summation).
+3. The processed mel-spectrograms are converted into patch tokens.
+4. The **HTS-AT Transformer** extracts deep features from the multi-microphone patch-token representations, enhancing robustness in reverberant environments.
 
 ---
 
