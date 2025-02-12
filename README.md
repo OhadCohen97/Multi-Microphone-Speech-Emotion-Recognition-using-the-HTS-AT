@@ -25,7 +25,7 @@ This work proposes a **multi-microphone adaptation** of the **HTS-AT Transformer
 Most emotion recognition systems degrade in **real-life scenarios** where audio is contaminated by reverberation. This study explores new methods to mitigate this degradation and proposes a robust **multi-microphone SER system** based on **HTS-AT**. We evaluate two strategies:
 
 1. **Averaging Mel-Spectrograms** across channels.
-!(images/Avg_mel.png)
+![](images/Avg_mel.png)
 
 2. **Summing Patch-Embedded Representations**.
 
