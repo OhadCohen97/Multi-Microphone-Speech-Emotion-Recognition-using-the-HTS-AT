@@ -1,4 +1,4 @@
-# Multi-Microphone Speech Emotion Recognition using HTS-AT
+# Multi-Microphone Speech Emotion Recognition using HTS-AT - Accepted to ICASSP 2025
 
 🚀 **Official repository for the paper:**
 **"Multi-Microphone Speech Emotion Recognition using the Hierarchical Token-semantic Audio Transformer Architecture"** (ICASSP 2025)\
@@ -55,11 +55,11 @@ This repository **only serves as a landing page**. The actual implementation is 
 If you use this work, please cite:
 
 ```bibtex
-@inproceedings{cohen2025multimic,
-  author    = {Ohad Cohen, Gershon Hazan, Sharon Gannot},
-  title     = {Multi-Microphone Speech Emotion Recognition using the Hierarchical Token-semantic Audio Transformer Architecture},
-  booktitle = {ICASSP},
-  year      = {2025}
+@article{cohen2024multi,
+  title={Multi-Microphone Speech Emotion Recognition using the Hierarchical Token-semantic Audio Transformer Architecture},
+  author={Cohen, Ohad and Hazan, Gershon and Gannot, Sharon},
+  journal={arXiv preprint arXiv:2406.03272},
+  year={2024}
 }
 ```
 
