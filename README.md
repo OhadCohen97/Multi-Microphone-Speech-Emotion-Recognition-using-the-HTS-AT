@@ -62,17 +62,3 @@ If you use this work, please cite:
   year={2024}
 }
 ```
-
----
-
-## 🌟 Acknowledgments
-
-This research was supported by the **European Union’s Horizon 2020 Program** and the **Audition Project, Data Science Program, Israel**.
-
----
-
-## 👤 Contact
-
-For questions or collaborations, feel free to reach out:
-📧 **[ohad.cohen@biu.ac.il](mailto\:ohad.cohen@biu.ac.il)**
-
