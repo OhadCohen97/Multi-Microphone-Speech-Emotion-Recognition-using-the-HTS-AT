@@ -1,4 +1,4 @@
-# 🎧 Multi-Microphone Speech Emotion Recognition using HTS-AT
+# Multi-Microphone Speech Emotion Recognition using HTS-AT
 
 🚀 **Official repository for the paper:**
 **"Multi-Microphone Speech Emotion Recognition using the Hierarchical Token-semantic Audio Transformer Architecture"** (ICASSP 2025)\
