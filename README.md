@@ -9,7 +9,7 @@
 
 ## 🔍 Overview
 
-**Speech Emotion Recognition (SER)** is a critical component of Human-Computer Interaction (HCI). However, most SER models degrade in real-world reverberant conditions. This work proposes a **multi-microphone adaptation** of the **HTS-AT Transformer architecture** to enhance emotion recognition in challenging acoustic environments.
+This work proposes a **multi-microphone adaptation** of the **HTS-AT Transformer architecture** to enhance emotion recognition in challenging acoustic environments.
 
 ### 🔮 Key Features
 
