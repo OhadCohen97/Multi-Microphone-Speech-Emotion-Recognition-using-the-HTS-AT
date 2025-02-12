@@ -2,7 +2,7 @@
 
 🚀 **Official repository for the paper:**
 **"Multi-Microphone Speech Emotion Recognition using the Hierarchical Token-semantic Audio Transformer Architecture"** (ICASSP 2025)\
-📄 [Read the Paper](arxiv.org/pdf/2406.03272)
+📄 [Read the Paper]([arxiv.org/pdf/2406.03272](https://arxiv.org/pdf/2406.03272))
 
 
 ---
