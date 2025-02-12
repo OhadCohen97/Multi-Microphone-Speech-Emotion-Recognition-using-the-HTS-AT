@@ -46,7 +46,7 @@ Our multi-microphone models **outperform single-channel baselines**, demonstrati
 
 This repository **only serves as a landing page**. The actual implementation is hosted in a separate repository:
 
-🔗 **[Code Repository]([https://github.com/yourusername/Multi-Microphone-SER-Code](https://github.com/OhadCohen97/Multi-Microphone-Multi-Modal-Emotion-Recognition-in-Reverberant-Environments))**
+🔗 **[Code Repository](https://github.com/OhadCohen97/Multi-Microphone-Multi-Modal-Emotion-Recognition-in-Reverberant-Environments)**
 
 ---
 
