@@ -11,7 +11,7 @@
 
 This work proposes a **multi-microphone adaptation** of the **HTS-AT Transformer architecture** to enhance emotion recognition in challenging acoustic environments.
 
-### 🔮 Key Features
+### Key Features
 
 - **Multi-Microphone Audio Processing**: Enhanced robustness against reverberation.
 - **HTS-AT Transformer Model**: A state-of-the-art deep learning approach.
@@ -33,7 +33,7 @@ Our multi-microphone models **outperform single-channel baselines**, demonstrati
 
 ---
 
-## 🔧 How It Works
+## 🔧 How The Algorithm Works
 
 1. Multi-channel audio is preprocessed into **mel-spectrograms**.
 2. The mel-spectrograms are processed using the selected multi-channel strategy (e.g., Averaging Mel-Spectrograms or Patch-Embed Summation).
