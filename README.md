@@ -28,7 +28,7 @@ Most emotion recognition systems degrade in **real-life scenarios** where audio 
 ![](images/Avg_mel.png)
 
 2. **Summing Patch-Embedded Representations**.
-
+![](images/Sum.png)
 Our multi-microphone models **outperform single-channel baselines**, demonstrating their superiority in real-world reverberant conditions.
 
 ---
